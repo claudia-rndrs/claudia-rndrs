@@ -31,16 +31,18 @@
 
 ## **Long intro**
 
-Hi there 👋! I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive.
-The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code, who are living in Belgium**. 
+Hi there 👋!<br>
+I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive. The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code and who are living in Belgium**. 
 
-Thanks to my prior career experiences in tech I have been doing a lot of different things that allowed me to grow women.code(be) into the community that it is today. I did everything from web development (mostly specialised in frontend), design (UX / UI) to product management.
+I started my own career as a PHP developer, but quickly moved to front-end development, from I transitioned in to the role of technical product manager and later on I switched back to front-end development and design (UX & UI)
+It is mostly thanks to my versatile experience in tech that I have been able to grow women.code(be) into the community that it is today. 
  
-Since 2023, I am also the **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the function of front-end developers.
+Since 2023, I am also the **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the role of front-end developers.
 
 Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
 
-During the (work)day however, it is more likely that you'll find me representing BeCode - a Belgian coding school with 4 different campuses across Belgium - as community lead. Originally, I started at BeCode as career coach (often also called talent coach), with as main focus supporting and guiding bootcamp students, so they could start their career in tech with confidence.
+During the (work)day however, it is more likely that you'll find me representing BeCode - a Belgian coding school with 4 different campuses across Belgium - as community lead. Here I spent most of my time building out a community to support the BeCode alumni, one step at a time. The first project I had the privilege to launch since I started as community lead, is a <a href="https://becode.org/about-us/women-mentoring-program/" target="_blank" rel="noreferrer nofollow">Women Mentoring Program</a>.
+
 <br><br>
 
 ## 🛠️ **Building projects with:**
@@ -63,7 +65,7 @@ During the (work)day however, it is more likely that you'll find me representing
 ![mangamaui's Stats](https://github-readme-stats.vercel.app/api?username=mangamaui&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![mangamaui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mangamaui&theme=jolly&hide_border=true)
 
-## **Socials**
+## **You can find me on:**
 
 - 🦜 [Twitter](https://twitter.com/claudia_rndrs)
 - 🏀 [Dribbble](https://dribbble.com/)

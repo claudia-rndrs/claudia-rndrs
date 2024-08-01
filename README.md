@@ -62,8 +62,8 @@ During the (work)day however, it is more likely that you'll find me representing
 
 ## **My GitHub Stats**
 
-![mangamaui's Stats](https://github-readme-stats.vercel.app/api?username=mangamaui&theme=jolly&show_icons=true&hide_border=true&count_private=true)
-![mangamaui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mangamaui&theme=jolly&hide_border=true)
+![mangamaui's Stats](https://github-readme-stats.vercel.app/api?username=claudia-rndrs&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![mangamaui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=claudia-rndrs&theme=synthwave&hide_border=true)
 
 ## **You can find me on:**
 

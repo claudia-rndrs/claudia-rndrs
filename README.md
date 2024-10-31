@@ -14,9 +14,7 @@
 
 👩‍⚖️  Chairwoman [@fronteers](https://github.com/fronteers) && event organiser [@fronteersbe](https://github.com/fronteersbe)
 
-💁‍♀️  Community founder & manager [@womendotcodebe](https://github.com/womendotcodebe)
-
-👩‍🏫  Community lead [@BeCode](https://github.com/becodeorg)
+💁‍♀️  Founder & editor [@womendotcodebe](https://womendotcode.be)
 
 👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites, sustainable design & development) 
 
@@ -32,16 +30,18 @@
 ## **Long intro**
 
 Hi there 👋!<br>
-I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive. The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code and who are living in Belgium**. 
+I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive. The last seven years I have been spending a lot of time and energy on a goal that is close to my heart: To support women in tech and increasing visibility for local role models, more specifically women who code. Discover all featured stories on <a href="https://womendotcode.be" target="_blank">women.code(be)</a>.
 
-I started my own career as a PHP developer, but quickly moved to front-end development, from I transitioned in to the role of technical product manager and later on I switched back to front-end development and design (UX & UI)
-It is mostly thanks to my versatile experience in tech that I have been able to grow women.code(be) into the community that it is today. 
+As for how I got started in tech: Initially I set out as a PHP developer, but quickly noticed front-end development was a better fit for me. Later, this led to the point where I transitioned in to the role of technical product manager and afterwards, I switched back to front-end development but with more focus on design. (UX & UI)
+It is mostly thanks to my versatile experience in tech that the pieces of becoming a community manager started falling into place, as it connected every part of my prior experiences.
  
-Since 2023, I am also the **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the role of front-end developers.
+Since 2023, I have been fortunate enough to call myself **chairwoman** of <a href="https://fronteers.nl" target="_blank">Fronteers</a>, a Dutch organisation and community who are commited to professionalise the role of front-end developers, active in the Netherlands and Flanders, Belgium.
 
-Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
+Occassionally, you might also run into me at a <a href="https://www.meetup.com/fronteers-be" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
 
-During the (work)day however, it is more likely that you'll find me representing BeCode - a Belgian coding school with 4 different campuses across Belgium - as community lead. Here I spent most of my time building out a community to support the BeCode alumni, one step at a time. The first project I had the privilege to launch since I started as community lead, is a <a href="https://becode.org/about-us/women-mentoring-program/" target="_blank" rel="noreferrer nofollow">Women Mentoring Program</a>.
+This past year I have been taking on different freelance roles, such as career coach and community manager, to help others who have chosen to pursuit a career in tech. Part of my responsibility was to build a mentorship program for women in tech.
+
+Currently, I'm taking some personal time but I will be available for new freelance projects soon, so feel free to reach out if you have something I might be able to contribute to.
 
 <br><br>
 
